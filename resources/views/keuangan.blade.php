@@ -48,7 +48,7 @@
     <div class="collapse navbar-collapse  w-auto " id="sidenav-collapse-main">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link text-dark" href="dashboard">
+          <a class="nav-link text-dark" href="/">
             <i class="material-symbols-rounded opacity-5">dashboard</i>
             <span class="nav-link-text ms-1">Dashboard</span>
           </a>
@@ -81,15 +81,15 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-dark" href="sign-in">
+          <a class="nav-link text-dark" href="masuk">
             <i class="material-symbols-rounded opacity-5">login</i>
-            <span class="nav-link-text ms-1">Sign In</span>
+            <span class="nav-link-text ms-1">Login</span>
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-dark" href="sign-up">
+          <a class="nav-link text-dark" href="daftar">
             <i class="material-symbols-rounded opacity-5">assignment</i>
-            <span class="nav-link-text ms-1">Sign Up</span>
+            <span class="nav-link-text ms-1">Daftar/span>
           </a>
         </li>
       </ul>
@@ -212,7 +212,7 @@
               </ul>
             </li>
             <li class="nav-item d-flex align-items-center">
-              <a href="sign-in" class="nav-link text-body font-weight-bold px-0">
+              <a href="login" class="nav-link text-body font-weight-bold px-0">
                 <i class="material-symbols-rounded">account_circle</i>
               </a>
             </li>

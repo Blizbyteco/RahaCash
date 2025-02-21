@@ -24,9 +24,9 @@ Route::get('/transaksi', function () {
 });
 
 Route::get('/masuk', function () {
-    return view('sign-in');
+    return view('login');
 });
 
 Route::get('/daftar', function () {
-    return view('sign-up');
+    return view('register');
 });
